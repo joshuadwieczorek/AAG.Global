@@ -1,0 +1,12 @@
+D:\AutoAdGroup_TFS_Master\Auto Ad Group\AppServices\AAG.Global\bin\Release\net5.0\AAG.Global.deps.json
+D:\AutoAdGroup_TFS_Master\Auto Ad Group\AppServices\AAG.Global\bin\Release\net5.0\AAG.Global.dll
+D:\AutoAdGroup_TFS_Master\Auto Ad Group\AppServices\AAG.Global\bin\Release\net5.0\ref\AAG.Global.dll
+D:\AutoAdGroup_TFS_Master\Auto Ad Group\AppServices\AAG.Global\bin\Release\net5.0\AAG.Global.pdb
+D:\AutoAdGroup_TFS_Master\Auto Ad Group\AppServices\AAG.Global\obj\Release\net5.0\AAG.Global.GeneratedMSBuildEditorConfig.editorconfig
+D:\AutoAdGroup_TFS_Master\Auto Ad Group\AppServices\AAG.Global\obj\Release\net5.0\AAG.Global.AssemblyInfoInputs.cache
+D:\AutoAdGroup_TFS_Master\Auto Ad Group\AppServices\AAG.Global\obj\Release\net5.0\AAG.Global.AssemblyInfo.cs
+D:\AutoAdGroup_TFS_Master\Auto Ad Group\AppServices\AAG.Global\obj\Release\net5.0\AAG.Global.csproj.CoreCompileInputs.cache
+D:\AutoAdGroup_TFS_Master\Auto Ad Group\AppServices\AAG.Global\obj\Release\net5.0\AAG.Global.dll
+D:\AutoAdGroup_TFS_Master\Auto Ad Group\AppServices\AAG.Global\obj\Release\net5.0\ref\AAG.Global.dll
+D:\AutoAdGroup_TFS_Master\Auto Ad Group\AppServices\AAG.Global\obj\Release\net5.0\AAG.Global.pdb
+D:\AutoAdGroup_TFS_Master\Auto Ad Group\AppServices\AAG.Global\obj\release\net5.0\AAG.Global.csprojAssemblyReference.cache
